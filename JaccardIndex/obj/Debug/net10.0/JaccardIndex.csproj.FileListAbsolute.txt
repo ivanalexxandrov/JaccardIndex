@@ -1,0 +1,14 @@
+C:\Users\Ivan\Desktop\Programming\.By Languages\C#\VSC\JaccardIndex\JaccardIndex\bin\Debug\net10.0\JaccardIndex.exe
+C:\Users\Ivan\Desktop\Programming\.By Languages\C#\VSC\JaccardIndex\JaccardIndex\bin\Debug\net10.0\JaccardIndex.deps.json
+C:\Users\Ivan\Desktop\Programming\.By Languages\C#\VSC\JaccardIndex\JaccardIndex\bin\Debug\net10.0\JaccardIndex.runtimeconfig.json
+C:\Users\Ivan\Desktop\Programming\.By Languages\C#\VSC\JaccardIndex\JaccardIndex\bin\Debug\net10.0\JaccardIndex.dll
+C:\Users\Ivan\Desktop\Programming\.By Languages\C#\VSC\JaccardIndex\JaccardIndex\bin\Debug\net10.0\JaccardIndex.pdb
+C:\Users\Ivan\Desktop\Programming\.By Languages\C#\VSC\JaccardIndex\JaccardIndex\obj\Debug\net10.0\JaccardIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\Programming\.By Languages\C#\VSC\JaccardIndex\JaccardIndex\obj\Debug\net10.0\JaccardIndex.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Programming\.By Languages\C#\VSC\JaccardIndex\JaccardIndex\obj\Debug\net10.0\JaccardIndex.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\Programming\.By Languages\C#\VSC\JaccardIndex\JaccardIndex\obj\Debug\net10.0\JaccardIndex.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Programming\.By Languages\C#\VSC\JaccardIndex\JaccardIndex\obj\Debug\net10.0\JaccardIndex.dll
+C:\Users\Ivan\Desktop\Programming\.By Languages\C#\VSC\JaccardIndex\JaccardIndex\obj\Debug\net10.0\refint\JaccardIndex.dll
+C:\Users\Ivan\Desktop\Programming\.By Languages\C#\VSC\JaccardIndex\JaccardIndex\obj\Debug\net10.0\JaccardIndex.pdb
+C:\Users\Ivan\Desktop\Programming\.By Languages\C#\VSC\JaccardIndex\JaccardIndex\obj\Debug\net10.0\JaccardIndex.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\Programming\.By Languages\C#\VSC\JaccardIndex\JaccardIndex\obj\Debug\net10.0\ref\JaccardIndex.dll
